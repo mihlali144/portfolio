@@ -1,0 +1,81 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 13px;
+}
+
+.navbar {
+    background: lightskyblue;
+    padding: 15px 17px;
+    margin: 15px;
+    float: right;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+body {
+    background-image: url('mzamo.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 60px;
+    color: black;
+    text-decoration: underline;
+    background: orange;
+    margin: 10px;
+    padding: 0px;
+}
+
+.navbar a:hover {
+    color: goldenrod;
+    background-color: rgb(195, 219, 218);
+    margin: 0px;
+    padding: 15px;
+    overflow: hidden;
+    color: black;
+}
+
+p {
+    font-family: 'Courier New';
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.navbar a {
+    color: rgb(137, 47, 221);
+    text-decoration: none;
+    overflow: hidden;
+}
+
+h2 {
+    text-align: left;
+    color: orange;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+li {
+    color: white;
+    font-family: 'Courier New';
+    font-size: 20px;
+}
+
+address {
+    color: white;
+    font-family: 'Courier New';
+    font-size: 20px;
+}
+

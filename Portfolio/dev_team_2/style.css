@@ -1,0 +1,107 @@
+body {
+ background-image: url('Pgrid.jpg');
+ background-size: 200%;
+ position: absolute;
+ text-align: center ;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+h2, h3 {
+    color: black;
+    text-decoration: underline;
+    color:black;
+    background-color: white;
+    border-style: double;
+    border-radius: 25px;
+    border-width: 10px;
+    padding: 7px;
+}
+
+.footer {
+    border: 2px solid black;
+    color: white;
+    border-style: none;
+    border-radius: 25px;
+}
+
+p {
+ color: black;
+ font-weight: bolder;
+ font-size: large;  
+ color: white;
+}
+
+table, th, td {
+    border: 3px solid black;
+    color: white;
+    padding: 7px;
+}
+
+address {
+    color: white;
+}
+
+h3 {
+color: black;
+background-color: white;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+    font-size: 100px;
+    background-color: ;
+    border-radius: 25px;
+    color: orange;
+}
+
+table { 
+    display: flex;
+    justify-content: center;
+    display: flex;
+    color: black;
+}
+
+th {
+    background-color: white;
+    color: black;
+}
+
+label {
+    font-size: 25px;
+}
+
+b {
+    font-size: 20px;
+}
+
+td {
+    color: black;
+}
+
+.navbar {
+    background-color: wheat;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 7px;
+    margin: 5px;
+    margin: 0px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    bottom: 540px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid whitesmoke;
+    color: black;
+    padding: 7px;
+    background-color: khaki;
+}
+
+a:hover {
+    color: brown;
+    background-color: chocolate;
+}
